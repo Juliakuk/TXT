@@ -1,0 +1,9 @@
+skills_1: Git Bash
+skills_2: structure XML
+skills_3: Codes HTTP
+skills_4: structure JSON
+skills_5: API testing
+skills_6: Postman
+skills_7: Charles
+skills_8: Fiddler
+skills_9: Dev Tools

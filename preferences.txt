@@ -1,0 +1,5 @@
+favorite film: alone at home
+favorite series: House
+favorite food: sweets
+favorite season: summer
+country: Bali
