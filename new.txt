@@ -1,0 +1,6 @@
+surname: Kukareko
+name: Julia
+patronymic: Aleksandrovna
+age: 38
+pets: 1
+salary: 1000$
